@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseExample</string>
+    <string name="default_animal">Enter Favorite Animal</string>
+    <string name="default_name">Enter Name</string>
+</resources>
